@@ -1,7 +1,7 @@
 // Always use PascalCasing
 function Message() {
     // This syntax is called JavaScript XML (JSX)
-    return <h1>Hello World</h1>;
+    return <h1>My first react app</h1>;
 }
 
 export default Message;
