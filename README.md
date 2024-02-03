@@ -29,12 +29,12 @@ Now you will be asked to enter the project name :
 
 ## What is in the vite project ?
 
-- node_modules : This contains all the the third party libraries like **react**
-- public : This contains all the public assests of the website like images, videos, audios, etc
-- src : This contains **source code** of the react application
-- package.jason : This contains the information of the project, dependencies
-- tsconfig.jason : This contains code that tells the TypeScript **compiler** how to compile the code to JavaScript
-- vite.config.ts : This is the configuration file for vite
+- **node_modules** : This contains all the the third party libraries like **react**
+- **public** : This contains all the public assests of the website like images, videos, audios, etc
+- **src** : This contains **source code** of the react application
+- **package.jason** : This contains the information of the project, dependencies
+- **tsconfig.jason** : This contains code that tells the TypeScript **compiler** how to compile the code to JavaScript
+- **vite.config.ts** : This is the configuration file for vite
 
   .
   .
