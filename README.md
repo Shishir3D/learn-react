@@ -7,7 +7,8 @@ Link to the tutorial that I am following :
 
 1. Install node `sudo apt install nodejs`
 2. Install npm `sudo apt install npm`
-3. Install vite with `npm create vite@latest`  
+3. Install vite with `npm create vite@latest`
+
 > Vite is an alternative of the official tool **Create React App** (CRA)
 
 Now you will be asked to enter the project name :
@@ -24,39 +25,57 @@ Now you will be asked to enter the project name :
 > This will install all the dependencies and run the webserver
 
 7. Enter `npm install` after **cd** into `./learn-react`
-8. Enter `npm run dev` to run the web server
+8. Enter `npm run dev` to launch the web server
 
+## What is in the vite project ?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br>
-
+- node_modules : This contains all the the third party libraries like **react**
+- public : This contains all the public assests of the website like images, videos, audios, etc
+- src : This contains **source code** of the react application
+- package.jason : This contains the information of the project, dependencies
+- tsconfig.jason : This contains code that tells the TypeScript **compiler** how to compile the code to JavaScript
+- vite.config.ts : This is the configuration file for vite
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
 
 <hr>
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
