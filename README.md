@@ -45,6 +45,13 @@ Now you will be asked to enter the project name :
 
 ### Use PascalCasing
 
+In react one component (any .tsx file) cannot return more than one element (html tags)
+
+We have two ways to fix it :
+
+1. Wrap all the elements inside a div
+2. Use fragments
+
 .
 .
 .
