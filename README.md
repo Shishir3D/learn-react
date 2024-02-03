@@ -8,12 +8,12 @@ Link to the tutorial that I am following :
 1. Install node `sudo apt install nodejs`
 2. Install npm `sudo apt install npm`
 3. Install vite with `npm create vite@latest`  
-   // Vite is an alternative of the official tool **Create React App** (CRA)
+> Vite is an alternative of the official tool **Create React App** (CRA)
 
 Now you will be asked to enter the project name :
 
-// This creates a vite project with react as a framework
-// It sets up all the necessary dependencies
+> This creates a vite project with react as a framework
+> It sets up all the necessary dependencies
 
 4. Enter the project name `learn-react`
 5. Select `react` as the framework
@@ -21,10 +21,27 @@ Now you will be asked to enter the project name :
 
 ## Congrats you have sucessfully created a react app :tada:
 
-// This will install all the dependencies and run the webserver
+> This will install all the dependencies and run the webserver
 
 7. Enter `npm install` after **cd** into `./learn-react`
 8. Enter `npm run dev` to run the web server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <hr>
 
