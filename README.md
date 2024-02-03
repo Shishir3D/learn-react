@@ -35,6 +35,7 @@ Now you will be asked to enter the project name :
 - package.jason : This contains the information of the project, dependencies
 - tsconfig.jason : This contains code that tells the TypeScript **compiler** how to compile the code to JavaScript
 - vite.config.ts : This is the configuration file for vite
+
   .
   .
   .
@@ -73,9 +74,10 @@ Now you will be asked to enter the project name :
   .
   .
   .
-  .
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <hr>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
