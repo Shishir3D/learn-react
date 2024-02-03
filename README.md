@@ -43,6 +43,18 @@ Now you will be asked to enter the project name :
 
 
 
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br>
+
+
 <hr>
 
 # React + TypeScript + Vite
