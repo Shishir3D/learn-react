@@ -36,45 +36,52 @@ Now you will be asked to enter the project name :
 - **tsconfig.jason** : This contains code that tells the TypeScript **compiler** how to compile the code to JavaScript
 - **vite.config.ts** : This is the configuration file for vite
 
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+# Make your first react component
+
+> extension for TypeScript files is .tx and .tsx
+> Common convention is to use .tx for plain TypeScript files and .tsx for react components
+
+### Use PascalCasing
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <hr>
 
